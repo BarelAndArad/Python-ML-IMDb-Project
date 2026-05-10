@@ -1,4 +1,4 @@
-# Instructions for running "part1.ipynb" code
+# Instructions for running "Part1.ipynb" code
 
 # Prerequisites
     Download from **[This link](https://datasets.imdbws.com/) the folllowing files:
